@@ -8,10 +8,10 @@ I'm in an exploratory phase right now, wondering what I'm supposed to specialize
 
 So far, I've explored:
 
-* 🌐 **Frontend Web Development** — portfolios, e-commerce, and product-display websites
-* 🤖 **Machine Learning / Computer Vision** — YOLO, OpenCV
-* 🌍 **3D & Geospatial Web Streaming** — converting & streaming `.las`, `.wkb`, and `.ifc` files using py3dtiles and CesiumJS
-* 💡 **Project Ideas** — came up with ideas like **SoundDrop** and a **Travel Route Optimizer**, never began executing yet
+*  **Frontend Web Development** — portfolios, e-commerce, and product-display websites
+*  **Machine Learning / Computer Vision** — YOLO, OpenCV
+*  **3D & Geospatial Web Streaming** — converting & streaming `.las`, `.wkb`, and `.ifc` files using py3dtiles and CesiumJS
+* **Project Ideas** — came up with ideas like **SoundDrop** and a **Travel Route Optimizer**, never began executing yet
 
 The part I have enjoyed the most throughout all of this hasn't necessarily been a particular technology.
 
