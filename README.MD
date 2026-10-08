@@ -13,6 +13,9 @@ So far, I've explored:
 *  **Machine Learning / Computer Vision** — YOLO, OpenCV
 *  **3D & Geospatial Web Streaming** — converting & streaming `.las`, `.wkb`, and `.ifc` files using py3dtiles and CesiumJS
 * **Project Ideas** — came up with ideas like **SoundDrop** and a **Travel Route Optimizer**, never began executing yet
+* **Cognitive / Productivity Software** — Thoughtloom; personal knowledge capture, thought organization, reflection, and cognitive workflow automation
+* **Web & Browser Extension Development** — Thoughtloom; web app, browser extension, and desktop application
+* **Audio / Music Technology** — SoundDrop; audio processing, music discovery/distribution, and interactive sound experiences
 
 The part I have enjoyed the most throughout all of this hasn't necessarily been a particular technology.
 
