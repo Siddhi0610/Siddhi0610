@@ -16,6 +16,7 @@ So far, I've explored:
 * **Cognitive / Productivity Software** — Thoughtloom; personal knowledge capture, thought organization, reflection, and cognitive workflow automation
 * **Web & Browser Extension Development** — Thoughtloom; web app, browser extension, and desktop application
 * **Audio / Music Technology** — SoundDrop; audio processing, music discovery/distribution, and interactive sound experiences
+* **EDTECH Web app** — neura - makes a novice understand ml in simplest visual way possible
 
 The part I have enjoyed the most throughout all of this hasn't necessarily been a particular technology.
 
